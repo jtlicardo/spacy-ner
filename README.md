@@ -1,4 +1,4 @@
-# Task extraction
+# spaCy Named Entity Recognition
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jtlicardo-task-extraction-streamlit-app-y9yrzm.streamlit.app)
 
